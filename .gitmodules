@@ -1,0 +1,6 @@
+[submodule "lib/utils"]
+	path = lib/utils
+	url = https://github.com/BME-Suborbitals/av-utils
+[submodule "lib/drivers"]
+	path = lib/drivers
+	url = https://github.com/BME-Suborbitals/av-drivers
