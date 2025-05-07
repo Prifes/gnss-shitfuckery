@@ -53,6 +53,7 @@ int main() {
             }
             idxPrev = idx;
             mcu::semi << RxString.c_str();
+            received = 0;
         }
     }
 }
